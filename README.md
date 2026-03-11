@@ -57,4 +57,18 @@ Some datasets are derived from threat intelligence formats such as **STIX** and 
 
 ---
 
-## Repository Structure
+## Disclaimer
+
+These datasets are provided **only for development and testing purposes**.
+
+They should **not be used directly for production threat blocking** without proper validation and enrichment.
+
+---
+
+## Contributions
+
+Contributions are welcome. You may submit:
+
+- Additional feed formats
+- New indicator datasets
+- Improvements to existing datasets
