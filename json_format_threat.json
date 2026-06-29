@@ -1,14 +1,14 @@
 [
-  {
-    "quick_scan_id": "6a42465bb9c02a91d3044a09",
+ {
+    "quick_scan_id": "6a424659e41752d35a00227d",
     "integrations": [
       "CrowdStrike Falcon Static Analysis (ML)",
       "Metadefender"
     ],
-    "sha256": "8cd3b70534101adceb679e8eba237ef74b4844b485cc25a2544ca57d8b37c4eb",
-    "submit_name": "8cd3b70534101adceb679e8eba237ef74b4844b485cc25a2544ca57d8b37c4eb",
+    "sha256": "8b09dd5d5657a0497e75ab3ff7b556c9a3260436228729e2584b1e832b18689b",
+    "submit_name": "8b09dd5d5657a0497e75ab3ff7b556c9a3260436228729e2584b1e832b18689b",
     "url_analysis": false,
-    "size": 188419,
+    "size": 188420,
     "mime": "application/vnd.microsoft.portable-executable",
     "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, 3 sections",
     "type_short": [
@@ -19,34 +19,15 @@
     "verdict_human": "malicious"
   },
   {
-    "quick_scan_id": "6a42465bacd6e47e1900bcce",
+    "quick_scan_id": "6a424659dd86011d7408c691",
     "integrations": [
       "CrowdStrike Falcon Static Analysis (ML)",
       "Metadefender"
     ],
-    "sha256": "aeb2473c69beb40b3994858ce9660719777cb5a3aa15b818c2ca319682f7d5e6",
-    "submit_name": "aeb2473c69beb40b3994858ce9660719777cb5a3aa15b818c2ca319682f7d5e6",
+    "sha256": "0393b08fdf6dce34fb12078848a137fffcd4a1fc1cf5fccaa531491dfbe1826f",
+    "submit_name": "0393b08fdf6dce34fb12078848a137fffcd4a1fc1cf5fccaa531491dfbe1826f",
     "url_analysis": false,
-    "size": 533330,
-    "mime": "application/vnd.microsoft.portable-executable",
-    "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, 3 sections",
-    "type_short": [
-      "peexe",
-      "executable"
-    ],
-    "verdict": 60,
-    "verdict_human": "malicious"
-  },
-  {
-    "quick_scan_id": "6a42465afd3631528301e37f",
-    "integrations": [
-      "CrowdStrike Falcon Static Analysis (ML)",
-      "Metadefender"
-    ],
-    "sha256": "c91aa4e46c55b44b13f71a2177e68413cba3ce027171023a4cfed5ddf90754bc",
-    "submit_name": "c91aa4e46c55b44b13f71a2177e68413cba3ce027171023a4cfed5ddf90754bc",
-    "url_analysis": false,
-    "size": 1875456,
+    "size": 1861632,
     "mime": "application/vnd.microsoft.portable-executable",
     "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, 2 sections",
     "type_short": [
@@ -55,5 +36,61 @@
     ],
     "verdict": 60,
     "verdict_human": "malicious"
-  }
-]
+  },
+  {
+    "quick_scan_id": "6a424659d8576f1a0d0f4c02",
+    "integrations": [
+      "CrowdStrike Falcon Static Analysis (ML)",
+      "Metadefender"
+    ],
+    "sha256": "e1051ce9063e6314b930477a871cbba00f3504bf0f7f31c4d41619f55b6638fa",
+    "submit_name": "e1051ce9063e6314b930477a871cbba00f3504bf0f7f31c4d41619f55b6638fa",
+    "url_analysis": false,
+    "size": 567340,
+    "mime": "application/vnd.microsoft.portable-executable",
+    "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, UPX compressed, 6 sections",
+    "type_short": [
+      "peexe",
+      "executable"
+    ],
+    "verdict": 60,
+    "verdict_human": "malicious"
+  },
+  {
+    "quick_scan_id": "6a424659d21a18c0c1054e5f",
+    "integrations": [
+      "CrowdStrike Falcon Static Analysis (ML)",
+      "Metadefender"
+    ],
+    "sha256": "7fffcd0c1f91ecd78c96155fd64a860a8416eadd4ec7bf80c8cb9db5b016b968",
+    "submit_name": "7fffcd0c1f91ecd78c96155fd64a860a8416eadd4ec7bf80c8cb9db5b016b968",
+    "url_analysis": false,
+    "size": 1661952,
+    "mime": "application/vnd.microsoft.portable-executable",
+    "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, 2 sections",
+    "type_short": [
+      "peexe",
+      "executable"
+    ],
+    "verdict": 60,
+    "verdict_human": "malicious"
+  },
+  {
+    "quick_scan_id": "6a424659acd6e47e1900bcc9",
+    "integrations": [
+      "CrowdStrike Falcon Static Analysis (ML)",
+      "Metadefender"
+    ],
+    "sha256": "b3a71122388489165030262daebf2a8859d65dee0aee89e3b3dd7ad8347f70c3",
+    "submit_name": "b3a71122388489165030262daebf2a8859d65dee0aee89e3b3dd7ad8347f70c3",
+    "url_analysis": false,
+    "size": 1197706,
+    "mime": "application/vnd.microsoft.portable-executable",
+    "type": "PE32 executable for MS Windows 4.00 (GUI), Intel i386, 6 sections",
+    "type_short": [
+      "peexe",
+      "executable"
+    ],
+    "verdict": 60,
+    "verdict_human": "malicious"
+  }]
